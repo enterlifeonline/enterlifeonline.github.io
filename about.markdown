@@ -6,11 +6,11 @@ permalink: /about/
 
 Gary Jackson is a technologist, teacher, and data scientist.
 
-[![LinkedIn Profile](images/profile.jpg)](https://www.linkedin.com/in/gsjackson/)
-
 Gary brings with him nearly two decades of experiences in IT, Enterprise Architecture, and Big Data & Analytics working for and within multinational companies around the world.
 
 Gary helped create the first [Artificial Intelligence written magazine, **Esquire Singapore April 2019** issue](https://wlos.com/news/local/wnc-writer-part-of-international-magazines-artificial-intelligence-team) with a technology called **[AI-Writer](http://ai-writer.com/)**. More recently, co-founded **[Blockstamped.io](https://blockstamped.io) to [prevent false narratives AKA 'fake news' and deep fakes using Ethereum Blockchain](https://wlos.com/news/local/one-company-works-to-prevent-spread-of-fake-videos)**.
+
+[![LinkedIn Profile](images/profile.jpg)](https://www.linkedin.com/in/gsjackson/)
 
 On this new **Blockstamped** platform, built the first blockchain authencity app for the media industry with the help of Oscar nominated, multiple Grammy Award winner, ['Bassy' Bob Brockmann](http://www.bassybob.com/) to help digitalize licensing and royalty payments to producers and artists. This app is called **[Bassed.io](https://www.facebook.com/blockstamped/videos/510817576274052)**.
 

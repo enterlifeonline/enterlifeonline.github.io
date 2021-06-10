@@ -2,7 +2,7 @@
 layout: post
 title: "Moonbounce"
 date: 2020-12-28 19:11:24 -0500
-categories: EME
+categories: Earth–Moon–Earth communication (EME)
 ---
 
 Earth-Moon-Earth, EME or Moonbounce is a form of radio communication propagation used by radio amateurs and others to effect global communications on frequencies above 144 MHz.

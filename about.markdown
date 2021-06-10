@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Gary Jackson is a technologist, teacher, and data scientist.
+Gary Jackson is a technologist, teacher, writer, and data scientist.
 
-Gary brings with him nearly two decades of experiences in IT, Enterprise Architecture, and Big Data & Analytics working for and within multinational companies around the world.
+Gary brings with him more than twenty-five years of experiences in IT, Enterprise Architecture, Big Data & Analytics, Blockchain, and Artificial Intelligence working for and within multinational companies around the world.
 
 Gary helped create the first [Artificial Intelligence written magazine, **Esquire Singapore April 2019** issue](https://wlos.com/news/local/wnc-writer-part-of-international-magazines-artificial-intelligence-team) with a technology called **[AI-Writer](http://ai-writer.com/)**. More recently, co-founded **[Blockstamped.io](https://blockstamped.io) to [prevent false narratives AKA 'fake news' and deep fakes using Ethereum Blockchain](https://wlos.com/news/local/one-company-works-to-prevent-spread-of-fake-videos)**.
 
@@ -19,8 +19,6 @@ Gary formally was Regional Director of System Integrators (SIs) and Technology P
 Prior to that he was the Principal for Big Data & Analytics Growth Markets, for Computer Sciences Corporation (CSC), supporting Latin America and Asia-Pacific traveling back and forth between São Paulo, Brasil and Hong Kong. Gary has also worked for SAS Institute as Head of Technology for Asia Pacific, South Africa, Europe, and North America for more than a decade.
 
 Gary holds a Bachelor of Science in Computer Information Systems, Information Technology and Computer Information Systems from DeVry University. He is a resident of both Hong Kong 香港 and Asheville, North Carolina.
-
----
 
 #### Television Appearances
 

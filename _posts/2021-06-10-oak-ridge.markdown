@@ -6,3 +6,5 @@ categories: Oak Ridge Lab
 ---
 
 Oak Ridge is developing a new exascale computing system called Frontier, which is expected to be completed in October. It will compute eight times faster than the nation’s current most powerful supercomputer, Summit, which is also housed at the laboratory.
+
+![Oak Ridge](images/oakridge.jpg)

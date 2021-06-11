@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Closed Timelike Curve"
-date: 2020-12-28 20:38:24 -0500
+date: 2020-06-10 20:38:24 -0500
 categories: Closed Timelike Curve (CTC)
 ---
 
